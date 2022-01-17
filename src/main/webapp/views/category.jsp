@@ -9,6 +9,6 @@
 </head>
 <body>
     <h1>Category List</h1>
-    <h1>Name = ${name}, age = ${age}</h1>
+<%--    <h1>Name = ${name}, age = ${age}</h1>--%>
 </body>
 </html>

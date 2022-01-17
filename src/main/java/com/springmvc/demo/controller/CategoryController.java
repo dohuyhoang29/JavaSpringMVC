@@ -14,8 +14,8 @@ public class CategoryController {
     public String getAllCategories (ModelMap modelMap) {
         //data sent to jsp => ModelMap
         //send data from Controller to View
-        modelMap.addAttribute("name", "Hoang");
-        modelMap.addAttribute("age", 20);
+        //modelMap.addAttribute("name", "Hoang");
+        //modelMap.addAttribute("age", 20);
         System.out.println("haha");
         return "category";
     }
